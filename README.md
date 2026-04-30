@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hola, soy Andrés
 
-<!--
-**mengrau/mengrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas
+📊 Practicante de Análisis de Datos en el área financiera
+💻 Interesado en desarrollo fullstack y análisis de datos
 
-Here are some ideas to get you started:
+Actualmente trabajo con herramientas de datos y también desarrollo proyectos web, combinando backend y frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 💻 Desarrollo
+
+* **Frontend:** Angular, HTML, CSS, JavaScript
+* **Backend:** Java, Python
+
+### 📊 Datos
+
+* Power BI
+* Power Query
+* Databricks
+* SAP
+
+### ⚙️ Herramientas
+
+* Git & GitHub
+
+---
+
+## 📌 Proyectos destacados
+
+### 🚗 Car Renting App
+
+Aplicación de renta de carros desarrollada con arquitectura frontend + backend.
+
+🔹 **Frontend:**
+Repositorio: https://github.com/mengrau/CarRentingBackEnd.git
+
+* Desarrollado con Angular
+* Interfaz para gestión de vehículos y usuarios
+
+🔹 **Backend: **[**https://github.com/mengrau/CarRentingBackEnd.git**](https://github.com/mengrau/CarRentingBackEnd.git)
+
+* API desarrollada en Python
+* Manejo de lógica de negocio y datos
+
+📌 Este proyecto me permitió trabajar en la integración completa entre frontend y backend.
+
+---
+
+## 📈 Actualmente
+
+* Mejorando buenas prácticas de desarrollo (clean code, estructura de proyectos)
+* Fortaleciendo habilidades en análisis de datos
+* Integrando desarrollo y data en soluciones más completas
+
+---
+
+## 📫 Contacto
+
+* LinkedIn: 
+* Email: [mendezandres983@gmail.com](mailto:mendezandres983@gmail.com)
