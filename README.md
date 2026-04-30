@@ -40,7 +40,8 @@ Repositorio: https://github.com/mengrau/CarRentingBackEnd.git
 * Desarrollado con Angular
 * Interfaz para gestión de vehículos y usuarios
 
-🔹 **Backend: **[**https://github.com/mengrau/CarRentingBackEnd.git**](https://github.com/mengrau/CarRentingBackEnd.git)
+🔹 **Backend:**
+Repositorio: https://github.com/mengrau/CarRentingBackEnd.git
 
 * API desarrollada en Python
 * Manejo de lógica de negocio y datos
