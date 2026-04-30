@@ -60,5 +60,5 @@ Repositorio: https://github.com/mengrau/CarRentingBackEnd.git
 
 ## 📫 Contacto
 
-* LinkedIn: 
+* LinkedIn: www.linkedin.com/in/mengrau
 * Email: [mendezandres983@gmail.com](mailto:mendezandres983@gmail.com)
