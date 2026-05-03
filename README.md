@@ -35,7 +35,7 @@ Actualmente trabajo con herramientas de datos y también desarrollo proyectos we
 Aplicación de renta de carros desarrollada con arquitectura frontend + backend.
 
 🔹 **Frontend:**
-Repositorio: https://github.com/mengrau/CarRentingBackEnd.git
+Repositorio: https://github.com/mengrau/CarRentingFrontEnd.git
 
 * Desarrollado con Angular
 * Interfaz para gestión de vehículos y usuarios
